@@ -1,0 +1,15 @@
+dl{
+  background-image: url(background.png);
+}
+.row{
+  padding: 30px;
+}
+.navbar{
+  background-image: url(background.png);
+}
+footer{
+  padding: 10px;
+}
+figure h1{
+  padding: 10px;
+}
